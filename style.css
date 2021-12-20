@@ -91,7 +91,8 @@ main{
 main img{
     width: 398px; 
     margin-bottom: 1.58%;
-    margin-bottom: 8.5vw;
+    margin-bottom: 1.3vw;
+    margin-right: 1.3vw;
     
     
 } 
@@ -123,7 +124,7 @@ footer{
 .texts {
     margin-left: 2.5vw;
     font-size: max(0.5rem, 1vw);
-    background-color: chartreuse;
+   
 }
 footer button{
     border: none;
